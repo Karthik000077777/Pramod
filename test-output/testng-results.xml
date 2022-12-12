@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T00:57:34 IST" name="Default suite" finished-at="2022-11-23T00:58:23 IST" duration-ms="49135">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T00:57:34 IST" name="Default test" finished-at="2022-11-23T00:58:23 IST" duration-ms="49135">
+      <class name="Test_Scenarios.Test_Methods">
+        <test-method signature="readConfig()[pri:0, instance:Test_Scenarios.Test_Methods@428640fa]" started-at="2022-11-23T00:57:34 IST" name="readConfig" finished-at="2022-11-23T00:57:34 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method signature="open_Browser()[pri:1, instance:Test_Scenarios.Test_Methods@428640fa]" started-at="2022-11-23T00:57:34 IST" name="open_Browser" finished-at="2022-11-23T00:57:39 IST" duration-ms="4562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_Browser -->
+        <test-method signature="login()[pri:2, instance:Test_Scenarios.Test_Methods@428640fa]" started-at="2022-11-23T00:57:39 IST" name="login" finished-at="2022-11-23T00:57:41 IST" duration-ms="2729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="compare_Products()[pri:3, instance:Test_Scenarios.Test_Methods@428640fa]" started-at="2022-11-23T00:57:41 IST" name="compare_Products" finished-at="2022-11-23T00:58:01 IST" duration-ms="19789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare_Products -->
+        <test-method signature="add_To_Cart()[pri:4, instance:Test_Scenarios.Test_Methods@428640fa]" started-at="2022-11-23T00:58:01 IST" name="add_To_Cart" finished-at="2022-11-23T00:58:14 IST" duration-ms="13216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_To_Cart -->
+        <test-method signature="remove_Products_From_Compare()[pri:5, instance:Test_Scenarios.Test_Methods@428640fa]" started-at="2022-11-23T00:58:14 IST" name="remove_Products_From_Compare" finished-at="2022-11-23T00:58:22 IST" duration-ms="7516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- remove_Products_From_Compare -->
+        <test-method signature="verifyLayout()[pri:6, instance:Test_Scenarios.Test_Methods@428640fa]" started-at="2022-11-23T00:58:22 IST" name="verifyLayout" finished-at="2022-11-23T00:58:22 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLayout -->
+        <test-method signature="verifySortByOrder()[pri:7, instance:Test_Scenarios.Test_Methods@428640fa]" started-at="2022-11-23T00:58:22 IST" name="verifySortByOrder" finished-at="2022-11-23T00:58:23 IST" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortByOrder -->
+      </class> <!-- Test_Scenarios.Test_Methods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
